@@ -22,11 +22,6 @@ My research interests is mainly **efficient machine learning**, particularly mod
 
   International Conference on Machine Learning (ICML), 2026
 
-- **CAST: Continuous and Differentiable Semi-Structured Sparsity-Aware Training for Large Language Models** [[arXiv]](https://arxiv.org/abs/2509.25996)
-
-  **Weiyu Huang**, Yuezhou Hu, Jun Zhu, Jianfei Chen
-
-  In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 
 - **Pruning large language models with semi-structural adaptive sparse training** [[arXiv]](https://arxiv.org/abs/2407.20584)  [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/34592/36747) [[Project page]](https://github.com/thu-ml/Adaptive-Sparse-Trainer)
 
@@ -39,6 +34,14 @@ My research interests is mainly **efficient machine learning**, particularly mod
   Yuezhou Hu, Kang Zhao, **Weiyu Huang**, Jianfei Chen, Jun Zhu
 
   International Conference on Machine Learning (ICML), 2024
+
+# Preprints
+
+- **CAST: Continuous and Differentiable Semi-Structured Sparsity-Aware Training for Large Language Models** [[arXiv]](https://arxiv.org/abs/2509.25996)
+
+  **Weiyu Huang**, Yuezhou Hu, Jun Zhu, Jianfei Chen
+
+  In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 
 # Contact
 
