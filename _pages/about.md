@@ -45,4 +45,4 @@ My research interests is mainly **efficient machine learning**, particularly mod
 
 # Contact
 
-Feel free to contact me via email at hwy23mails.tsinghua.edu.cn.
+Feel free to contact me via email at hwy23@mails.tsinghua.edu.cn.
