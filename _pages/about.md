@@ -9,7 +9,6 @@ redirect_from:
 
 I am a PhD student at Tsinghua Statistical Artificial Intelligence & Learning (TSAIL), advised by [Prof. Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/). Previously, I completed my undergrad in Tsinghua University majoring in Applied Mathematics. 
 
-My email: hwy23mails.tsinghua.edu.cn
 
 # Research Interests
 
@@ -43,4 +42,4 @@ My research interests is mainly **efficient machine learning**, particularly mod
 
 # Contact
 
-Feel free to contact me via email.
+Feel free to contact me via email at hwy23mails.tsinghua.edu.cn.
