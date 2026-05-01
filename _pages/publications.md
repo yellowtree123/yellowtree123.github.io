@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Selected Publications
 
 - **Deterministic Differentiable Structured Pruning for Large Language Models** [[arXiv]](https://arxiv.org/abs/2603.08065) [[Project page]](https://github.com/yellowtree123/Deterministic-Differentiable-Pruning)
 
