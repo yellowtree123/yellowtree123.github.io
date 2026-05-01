@@ -1,19 +1,10 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant(TA) for Advanced Numerical Analysis"
 collection: teaching
 type: "Graduate course"
-venue: "University 1, Department"
-date: 2025-03-01
+venue: "Tsinghua University, Department of Mathematical Sciences"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Spring 2024, Fall 2024 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
 
