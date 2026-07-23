@@ -42,6 +42,17 @@ My research interests is mainly **efficient machine learning**, particularly mod
   **Weiyu Huang**, Yuezhou Hu, Jun Zhu, Jianfei Chen
 
   In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  
+# Academic Service
+
+* Reviewer for ICML, NeurIPS, and AAAI
+
+# Awards
+
+* Gold Reviewer, ICML 2026
+* Comprehensive Merit Scholarship (Top 5%), Tsinghua University, 2023 and 2025
+* Silver Medal, 35th Chinese Physics Olympiad for High School Students, 2018
+
 
 # Contact
 
