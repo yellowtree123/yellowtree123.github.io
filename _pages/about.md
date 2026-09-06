@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Tsinghua Statistical Artificial Intelligence & Learning (TSAIL), advised by [Prof. Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/). Previously, I completed my undergrad in Tsinghua University majoring in Applied Mathematics. 
+I am a fourth-year PhD student at Tsinghua Statistical Artificial Intelligence & Learning (TSAIL), advised by Prof. Jianfei Chen. My research focuses on efficient machine learning, particularly model compression for large language models, including pruning, sparsity, distillation, and quantization. Prior to my PhD, I received my bachelor’s degree in Applied Mathematics from Tsinghua University. I am currently a **research intern at Tencent TEG**, where I work on model compression and efficient deployment of large-scale models.
 
 
 # Research Interests
@@ -42,10 +42,14 @@ My research interests is mainly **efficient machine learning**, particularly mod
   **Weiyu Huang**, Yuezhou Hu, Jun Zhu, Jianfei Chen
 
   In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+
+- **Identifying sensitive weights via post-quantization integral** [[arXiv]](https://arxiv.org/pdf/2503.01901?)
+
+  Yuezhou Hu, **Weiyu Huang**, Zichen Liang, Chang Chen, Jintao Zhang, Jun Zhu, Jianfei Chen
   
 # Academic Service
 
-* Reviewer for ICML, NeurIPS, and AAAI
+* Reviewer for ICML, NeurIPS, AAAI and IEEE TPAMI
 
 # Awards
 
