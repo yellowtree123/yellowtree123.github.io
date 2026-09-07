@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at Tsinghua Statistical Artificial Intelligence & Learning (TSAIL), advised by Prof. Jianfei Chen. My research focuses on efficient machine learning, particularly model compression for large language models, including pruning, sparsity, distillation, and quantization. Prior to my PhD, I received my bachelor’s degree in Applied Mathematics from Tsinghua University. I am currently a **research intern at Tencent TEG**, where I work on model compression and efficient deployment of large-scale models.
+I am a fourth-year PhD student at Tsinghua Statistical Artificial Intelligence & Learning (TSAIL), advised by [**Prof. Jianfei Chen**](https://ml.cs.tsinghua.edu.cn/~jianfei/). My research focuses on **efficient machine learning**, particularly model compression for large language models, including pruning, sparsity, distillation, and quantization. Prior to my PhD, I received my bachelor’s degree in Applied Mathematics from Tsinghua University. I am currently a **research intern at Tencent TEG**, where I work on model compression and efficient deployment of large-scale models.
 
 
 # Research Interests
