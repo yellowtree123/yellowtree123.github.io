@@ -49,7 +49,7 @@ My research interests is mainly **efficient machine learning**, particularly mod
   
 # Academic Service
 
-* Reviewer for ICML, NeurIPS, AAAI and IEEE TPAMI
+* Reviewer for ICML, NeurIPS, ICLR, AAAI and IEEE TPAMI
 
 # Awards
 
